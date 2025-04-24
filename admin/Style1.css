@@ -1,0 +1,31 @@
+body {
+    background-color: #fff1f4; /* soft rose background */
+}
+
+.card {
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.btn-rose {
+    background-color: #e91e63;
+    color: white;
+}
+
+.btn-rose:hover {
+    background-color: #d81b60;
+    color: white;
+}
+
+.navbar-rose {
+    background-color: #e91e63;
+}
+
+.navbar-rose .navbar-brand,
+.navbar-rose .nav-link {
+    color: white;
+}
+
+.navbar-rose .nav-link:hover {
+    color: #ffe6f0;
+}
